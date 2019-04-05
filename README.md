@@ -1,2 +1,2 @@
 # project3
-This is my a MERN stack application. 
+This is my MERN stack application. 
